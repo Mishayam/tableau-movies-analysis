@@ -1,0 +1,9 @@
+{
+  "rows": 4535,
+  "unique_movie_ids": 4527,
+  "zero_revenue_rows": 0,
+  "missing_revenue_rows": 0,
+  "zero_budget_rows": 1115,
+  "zero_runtime_rows": 18,
+  "recorded_revenue": 374905655559
+}
